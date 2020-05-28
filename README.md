@@ -1,2 +1,2 @@
 site2
-launch
+launch now
